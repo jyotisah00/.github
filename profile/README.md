@@ -1,7 +1,7 @@
-<p align="center"><img width="320"  src="../assets/devtron-sq.png">
+<p align="center"><img width="320"  src="https://raw.githubusercontent.com/devtron-labs/.github/main/assets/devtron-sq.png">
 <h1 align= "center">Tool integration platform for Kubernetes</h1>
 </p>
-<img src="../assets/devtron-feat-glance.png"></img>
+<img src="https://raw.githubusercontent.com/devtron-labs/.github/main/assets/devtron-feat-glance.png"></img>
 
 <h1>Getting Started 🚀</h1>
 <p>Kick start your Kubernetes deployments journey with Devtron...</p>
