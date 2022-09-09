@@ -8,22 +8,22 @@
 
 
 <p>Checkout Documentation -
-<a href="https://docs.devtron.ai/" rel="nofollow"><strong>docs.devtron.ai</strong></a>
+<a href="https://docs.devtron.ai/" target="_blank"><strong>docs.devtron.ai</strong></a>
 <br>
-Devtron HandsOn -
-<a href="https://preview.devtron.ai/dashboard/" rel="nofollow"><strong>preview.devtron.ai</strong></a>
+HandsOn Environment-
+<a href="https://preview.devtron.ai/dashboard/" target="_blank"><strong>preview.devtron.ai</strong></a>
 <br>
-Devtron Website -
-<a href="https://devtron.ai/"><strong>devtron.ai</strong></a>
+Website -
+<a href="https://devtron.ai/" target="_blank"><strong>devtron.ai</strong></a>
 <br>
 Devtron Blogs -
-<a href="https://devtron.ai/blog/"><strong>devtron.ai/blog</strong></a>
+<a href="https://devtron.ai/blog/" target="_blank"><strong>devtron.ai/blog</strong></a>
 <br>
-Devtron's Twitter -
-<a href="https://twitter.com/DevtronL"><strong>@DevtronL</strong></a>
+Twitter -
+<a href="https://twitter.com/DevtronL" target="_blank"><strong>@DevtronL</strong></a>
 <br>
 <br>
 Feel free to join our 
-<a href="https://discord.gg/jsRG5qx2gp"><strong>Community Discord Server</strong></a>
+<a href="https://discord.gg/jsRG5qx2gp" target="_blank"><strong>Community Discord Server</strong></a>
 <br>
 </p>
