@@ -1,5 +1,5 @@
 <p align="center"><img width="300"  src="https://raw.githubusercontent.com/devtron-labs/.github/main/assets/devtron.png">
-<h1 align= "center">Tool integration platform for Kubernetes</h1>
+<h1 align= "center">A Kubernetes-native Application Management Platform</h1>
 </p>
 <img src="https://raw.githubusercontent.com/devtron-labs/.github/main/assets/devtron-feat-glance.png"></img>
 
